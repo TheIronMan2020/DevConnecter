@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb+srv://hanwen:1234@hanwen.jjxuo.mongodb.net/devcon?retryWrites=true&w=majority",
+    "jwtSecret": "Ironman",
+    "githubClientId": "da97b17ddd151dca2901",
+    "githubSecret": "2d1ba3a130e809cc972f467477acdb2331603cf5"
+
+}
